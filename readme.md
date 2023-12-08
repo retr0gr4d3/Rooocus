@@ -4,9 +4,11 @@ Rooocus is a fork of Fooocus with some adjustments for use with my personal app,
 
 This fork further enhances the 'focus' idea, by removing options from the webui.
 
-- Auth has been enforced. (Default: `user`:`pass`. Change in webui.py at the end of the file.)
+- Auth has been enforced. (Default: `user`:`pass` - change in webui.py)
 - The History Log access link has been hidden.
-- Aspect Ratios have been altered.
+- Aspect Ratio choices have been reduced by `17`. New options have been added.
+- Default number of images generated reduced from `2` to `1`.
+- Maximum number of images that can be generated reduced from `32` to `8`.
 
 <details>
     <summary>Original README</summary>
