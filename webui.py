@@ -81,8 +81,17 @@ title = f'Fooocus {fooocus_version.version}'
 if isinstance(args_manager.args.preset, str):
     title += ' ' + args_manager.args.preset
 
+theme = gr.themes.Default(
+    primary_hue="red",
+    secondary_hue="red",
+    neutral_hue="neutral",
+).set(
+    background_fill_primary='*neutral_50'
+)
+
 shared.gradio_root = gr.Blocks(
     title=title,
+    theme=theme,
     css=modules.html.css).queue()
 
 with shared.gradio_root:

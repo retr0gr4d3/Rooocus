@@ -9,6 +9,7 @@ This fork further enhances the 'focus' idea, by removing options from the webui.
 - Aspect Ratio choices have been reduced by `17`. New options have been added.
 - Default number of images generated reduced from `2` to `1`.
 - Maximum number of images that can be generated reduced from `32` to `8`.
+- Changed UI theme to the certified retrograde standard. (Red and Black)
 
 <details>
     <summary>Original README</summary>
