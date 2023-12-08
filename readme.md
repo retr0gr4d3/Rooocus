@@ -6,6 +6,7 @@ This fork further enhances the 'focus' idea, by removing options from the webui.
 
 - Auth has been enforced. (Default: `user`:`pass`. Change in webui.py at the end of the file.)
 - The History Log access link has been hidden.
+- Aspect Ratios have been altered.
 
 <details>
     <summary>Original README</summary>
