@@ -4,7 +4,8 @@ Rooocus is a fork of Fooocus with some adjustments for use with my personal app,
 
 This fork further enhances the 'focus' idea, by removing options from the webui.
 
-- Auth has been enforced, the placeholder configuration is "user" with the password "pass". You can alter this at the end of the webui.py file.
+- Auth has been enforced. (Default: `user`:`pass`. Change in webui.py at the end of the file.)
+- The History Log access link has been hidden.
 
 <details>
     <summary>Original README</summary>
