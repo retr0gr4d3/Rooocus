@@ -1,4 +1,12 @@
-<div align=center>
+# Rooocus
+
+Rooocus is a fork of Fooocus with some adjustments for use with my personal app, DREAMS.
+
+This fork further enhances the 'focus' idea, by removing options from the webui.
+
+<details>
+    <summary>Original README</summary>
+    <div align=center>
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
 
 **Non-cherry-picked** random batch by just typing two words "forest elf", 
@@ -355,3 +363,5 @@ Or `run_realistic.bat` as
 For practical translation, you may create your own file like `Fooocus/language/jp.json` or `Fooocus/language/cn.json` and then use flag `--language jp` or `--language cn`. Apparently, these files do not exist now. **We need your help to create these files!**
 
 Note that if no `--language` is given and at the same time `Fooocus/language/default.json` exists, Fooocus will always load `Fooocus/language/default.json` for translation. By default, the file `Fooocus/language/default.json` does not exist.
+
+</details>
