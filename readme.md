@@ -10,10 +10,11 @@ This fork further enhances the 'focus' idea, by removing options from the webui.
 - Default number of images generated reduced from `2` to `1`.
 - Maximum number of images that can be generated reduced from `32` to `8`.
 - Changed UI theme to the certified retrograde standard. (Red and Black)
+- Fixed the appearance of the Generate button on long/mobile views.
 
 <details>
     <summary>Original README</summary>
-    <div align=center>
+<div align=center>
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
 
 **Non-cherry-picked** random batch by just typing two words "forest elf", 
