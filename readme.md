@@ -11,6 +11,7 @@ This fork further enhances the 'focus' idea, by removing options from the webui.
 - Maximum number of images that can be generated reduced from `32` to `8`.
 - Changed UI theme to the certified retrograde standard. (Red and Black)
 - Fixed the appearance of the Generate button on long/mobile views.
+- Added Turbo, intended to be used with [TurboVisionXL](https://civitai.com/models/215418?modelVersionId=255474). It will not auto-fetch the model, you will need to grab it from the link. 
 
 <details>
     <summary>Original README</summary>
